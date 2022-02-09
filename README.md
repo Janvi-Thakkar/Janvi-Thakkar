@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janvi-thakkar&show_icons=true&locale=en" alt="janvi-thakkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janvi-thakkar&" alt="janvi-thakkar" /></p>>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janvi-thakkar&" alt="janvi-thakkar" /></p>
