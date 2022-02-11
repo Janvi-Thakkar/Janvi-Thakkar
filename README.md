@@ -21,7 +21,8 @@
  
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janvi-thakkar&show_icons=true&locale=en&layout=compact" alt="janvi-thakkar" /></p>-->
 <br/> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Janvi-Thakkar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="janvi-thakkar" /></p>
+   <br/> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Janvi-Thakkar&bg_color=0D1117hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="janvi-thakkar" /></p>
 <br/>
 <p><img align="center" width="100%" src="https://activity-graph.herokuapp.com/graph?username=Janvi-Thakkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="janvi-thakkar" /></p>
 </div>
