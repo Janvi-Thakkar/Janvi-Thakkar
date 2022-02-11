@@ -19,7 +19,7 @@
 <div align="left">
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janvi-thakkar&show_icons=true&locale=en&layout=compact" alt="janvi-thakkar" /></p>
 <br/> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=janvi-thakkar&show_icons=true&locale=en" alt="janvi-thakkar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Janvi-Thakkar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="janvi-thakkar" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janvi-thakkar&" alt="janvi-thakkar" /></p>
 </div>
