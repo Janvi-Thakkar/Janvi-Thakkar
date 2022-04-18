@@ -5,7 +5,7 @@
 <!-- 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pf7IOU9p8DzkvqiOxPPxU9Un_tTq7inO/view?usp=sharing](https://drive.google.com/file/d/1pf7IOU9p8DzkvqiOxPPxU9Un_tTq7inO/view?usp=sharing) -->
 
-- ⚡ Fact **Dreamer Believer but not yet Googler**
+- ⚡ Fact **I’d most like to be remembered for helping others**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
