@@ -6,6 +6,10 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pf7IOU9p8DzkvqiOxPPxU9Un_tTq7inO/view?usp=sharing](https://drive.google.com/file/d/1pf7IOU9p8DzkvqiOxPPxU9Un_tTq7inO/view?usp=sharing) -->
 
 - ⚡ Fact **I’d most like to be remembered for helping others**
+- <p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Janvi-Thakkar/count.svg" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
